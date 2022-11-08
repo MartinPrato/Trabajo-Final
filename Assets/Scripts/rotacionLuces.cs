@@ -13,6 +13,6 @@ public class rotacionLuces : MonoBehaviour
 
     void Update()
     {
-        transform.rotation += new Vector3(0,rotacion,0);
+        
     }
 }

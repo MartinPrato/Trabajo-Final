@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class rotacionLuces : MonoBehaviour
 {
-    public float rotacion;
+    public Vector3 rotacion;
     
     void Start()
     {
@@ -13,6 +13,6 @@ public class rotacionLuces : MonoBehaviour
 
     void Update()
     {
-        
+    
     }
 }
